@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @realrakibhasan
 - 👀 I’m interested in Software Engineering (Mostly IOS, Android & Cross Platform) also UX Design!
 - 🌱 I’m currently learning IOS Development
-- 📫 How to reach me 
-     Email: rakibhasandev@gmail.com
-     Twitter: www.twitter.com/realrakibhasan
-     Medium: www.medium.com/realrakibhasan
-     LinkedIn: www.linkedIn.com/in/realrakibhasan
+- 📫 Reach me rakibhasandev@gmail.com
 - 🥂 Cheers!
      
 
