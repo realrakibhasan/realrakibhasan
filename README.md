@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning IOS Development
 - 📫 How to reach me 
      Email: rakibhasandev@gmail.com
-     Twitter/LinkedIn/Medium: @realrakibhasan 
+     Twitter: www.twitter.com/realrakibhasan
+     Medium: www.medium.com/realrakibhasan
+     LinkedIn: www.linkedIn.com/in/realrakibhasan
 - 🥂 Cheers!
      
 
