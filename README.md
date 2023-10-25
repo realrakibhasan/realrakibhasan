@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @realrakibhasan
-- 👀 I’m interested in Software Engineering (Mostly IOS, Android & Cross Platform) also UX Design!
+- 👋 Hi, I’m Rakib Hasan
+- 👀 I’m interested in Software Engineering (Mostly iOS, Android & Cross Platform) also currently working as a UX Designer!
 - 🌱 I’m currently learning IOS Development
 - 🥂 Cheers!
      
